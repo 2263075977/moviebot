@@ -2,7 +2,7 @@ id: hd4fans
 name: 兽站
 domain: https://pt.hd4fans.org/
 encoding: UTF-8
-config_url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/htnanako/movie-robot-public/main/app/sites/hdatmos.yml
+config_url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/2263075977/moviebot/main/hd4fans.yaml
 
 login:
   test:
